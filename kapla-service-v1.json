@@ -1,4 +1,13 @@
 {
   "schemaVersion": 1,
-  "notices": []
+  "notices": [
+    {
+      "id": "test-p88-2026-11-25-1001",
+      "fromVersion": "2026.11.1001",
+      "throughVersion": "2026.11.1001",
+      "expiresAt": "2026-11-25T17:00:00Z",
+      "title": "Test komunikatów serwisowych KaPla",
+      "message": "Ten komunikat opublikował P88 na potrzeby testu wersji 2026.11.1001. Po sprawdzeniu wyglądu wybierz „Zamknij”."
+    }
+  ]
 }
