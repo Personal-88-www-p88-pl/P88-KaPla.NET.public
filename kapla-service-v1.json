@@ -7,7 +7,8 @@
       "throughVersion": "2026.11.1001",
       "expiresAt": "2026-11-25T17:00:00Z",
       "title": "Test komunikatów serwisowych KaPla",
-      "message": "Ten komunikat opublikował P88 na potrzeby testu wersji 2026.11.1001. Po sprawdzeniu wyglądu wybierz „Zamknij”."
+      "message": "Ten komunikat opublikował P88 na potrzeby testu wersji 2026.11.1001. Po sprawdzeniu wyglądu wybierz „Zamknij”.",
+      "electronOnly": false
     }
   ]
 }
